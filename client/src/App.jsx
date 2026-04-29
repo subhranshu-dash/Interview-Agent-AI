@@ -12,7 +12,7 @@ import Pricing from './pages/Pricing'
 import InterviewReport from './pages/InterviewReport'
 
 // ✅ FIX: export serverurl sahi jagah pe — imports ke baad
-export const serverurl = "http://localhost:8000"
+export const serverurl = "https://interview-agent-ai.onrender.com"
 
 function App() {
 
